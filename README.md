@@ -19,10 +19,11 @@ model = Sequential()
 
 # first input layer with first hidden layer in a single statement
 model.add(Dense(100, input_shape=(4,), activation='relu'))
-# 10 is the size(no. of neurons) of first hidden layer, 4 is the no. of features in the input layer
+# 100 is the size(no. of neurons) of first hidden layer, 4 is the no. of features in the input layer
 # input_shape=(4,)  can also be written as   input_dim=4
-
+# 2nd hidden layer with 50 neurons
 model.add(Dense(50, activation='relu'))
+
 # ouput layer
 model.add(Dense(3, activation='softmax'))  # 3 = no. of neurons in output layer as three categories of labels are there
 
