@@ -5,11 +5,10 @@ In this example we use Keras deep learning library to classify  famous IRIS data
 
 ## Use Keras if you need a deep learning library that:
 
-    Allows for easy and fast prototyping (through user friendliness, modularity, and extensibility).
-    Supports both convolutional networks and recurrent networks, as well as combinations of the two.
-    Runs seamlessly on CPU and GPU.
+    1) Allows for easy and fast prototyping (through user friendliness, modularity, and extensibility).
+    2) Supports both convolutional networks and recurrent networks, as well as combinations of the two.
+    3) Runs seamlessly on CPU and GPU.
 
+## Keras Cheat sheet which will be extreamly useful when creating classification models
 
-## Below shows a simple structure of a Neural Network 
-
-![2 -ann-structure](https://user-images.githubusercontent.com/24733068/65293767-b2597180-db9f-11e9-8293-f7b5c78c7b1b.jpg)
+![keras](https://user-images.githubusercontent.com/24733068/65365540-8b617500-dc5d-11e9-9765-e8548b50646f.jpeg)
