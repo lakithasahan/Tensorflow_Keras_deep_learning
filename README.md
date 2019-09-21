@@ -74,8 +74,9 @@ plt.show()
 
 ```
 
-## OUTPUT plot can be found below
-**Precition and Recall=1.0**
+## OUTPUT plot can be found below                                                                                                                                           
+**Precition and Recall=1.0**  
+
 ![keraspredict](https://user-images.githubusercontent.com/24733068/65365630-5570c080-dc5e-11e9-908b-0dc198429924.png)
 
 
